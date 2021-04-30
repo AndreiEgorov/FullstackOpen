@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+Useful: 
+WARNING create-react-app automatically makes the project a git repository unless the application is created within an already existing repository. Now it is likely that you do not want the project to become a repository, so run the command rm -rf .git in the root of the project.
